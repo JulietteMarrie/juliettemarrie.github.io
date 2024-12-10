@@ -1,5 +1,5 @@
 ---
-title: "On Good Practices for Task-Specfici Distillation of Large Pretrained Visual Models"
+title: "On Good Practices for Task-Specific Distillation of Large Pretrained Visual Models"
 collection: publications
 category: manuscripts
 permalink: /publication/2024-05-distillation
