@@ -25,9 +25,9 @@ author:
   name             : "Juliette Marrie"
   pronouns         : # example: "she/her"  
   bio              : "3rd year PhD studnt at Inria THOTH and NAVER LABS Europe. <br>  <a href='files/CV.pdf'>Download my CV</a>"
-  location         : "Grenoble, France"
-  employer         : "NAVER LABS Europe, Inria THOTH"
-  uri              : # URL
+  location: "Grenoble, France"
+  employer: # employer
+  uri: # URL 
   email            : "juliette.marrie@inria.fr" 
 
   # Academic websites
