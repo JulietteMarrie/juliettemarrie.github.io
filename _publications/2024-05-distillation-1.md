@@ -6,9 +6,11 @@ permalink: /publication/2024-05-distillation
 excerpt: '*Juliette Marrie, Michael Arbel, Julien Mairal, Diane Larlus*<br><br>This paper delineates good practices for leveraging current large pretrained visual models to train a small model on a specific task.'
 date: 2024-05-02
 venue: 'Transactions on Machine Learning Research (TMLR)'
+year: 2024
 image_caption: PCA of image features for 30 classes of the CUB Bird dataset. Distilling a large pretrained teacher (top, left) to train a small task-specific student model (top, right) results in a better clustering of the representations compared to simply finetuning the student on the task (bottom, right). Distillation can be improved by using a Mixup-inspired class-agnostic data augmentation based on Stable Diffusion (grey features in teacher plot).
 image: /files/tmlr.png
 paperurl: 'https://openreview.net/forum?id=oyISaaeHwD'
+projecturl: 'https://europe.naverlabs.com/research/publications/on-good-practices-for-task-specific-distillation-of-large-pretrained-visual-models/'
 ---
 
 *Juliette Marrie, Michael Arbel, Julien Mairal, Diane Larlus*
